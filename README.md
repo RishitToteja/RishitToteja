@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **totejarishit262@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TLh5xcJL7-qZzr7H4yMyOAJWjld_4qOk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wCFGJ0JbvnOZfz4yxumf1vMGU7v9m6lG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
