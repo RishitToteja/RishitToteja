@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an **Applied Scientist at Amazon**
 
-- 📝 I regularly write articles on [Medium](https://rishittoteja.medium.com/)
+- 📝 I (used to) regularly write articles on [Medium](https://rishittoteja.medium.com/)
 
 - 💬 Ask me about **Python, C++, C#, C, Java, JavaScript, Data Structures and Algorithms**
 
