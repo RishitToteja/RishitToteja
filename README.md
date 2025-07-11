@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/totejarishit" target="blank"><img src="https://img.shields.io/twitter/follow/totejarishit?logo=twitter&style=for-the-badge" alt="totejarishit" /></a> </p>
 
-- 🔭 I’m currently working as an **Applied Scientist Intern at Amazon**
+- 🔭 I’m currently working as an **Applied Scientist at Amazon**
 
 - 📝 I regularly write articles on [Medium](https://rishittoteja.medium.com/)
 
